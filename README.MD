@@ -1,11 +1,11 @@
-¡Windowsã‚Ì‰¼‘zŠÂ‹«‚ÉOSX‚ğƒCƒ“ƒXƒg[ƒ‹
-@EQlURL
-@@¨http://ichitaso.com/hackitosh/mac-on-windows-pc/
-@
-@Eunlock-all-v130.zip
-@@¨Windows‚ÅMacOS‚ğ”F¯‚³‚¹‚é
-@@¨VMWare Tool‚àŠÜ‚Ş
-@@
-@ESnow_VM_Files.zip
-@@¨VMã‚ÌƒTƒEƒ“ƒhŠÖ˜Aƒhƒ‰ƒCƒo
-@@
+### Windowsä¸Šã®ä»®æƒ³ç’°å¢ƒã«OSXã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
+ã€€* å‚è€ƒURL:
+http://ichitaso.com/hackitosh/mac-on-windows-pc/
+
+ã€€* unlock-all-v130.zip  
+ã€€ã€€Windowsã§MacOSã‚’èªè­˜ã•ã›ã‚‹  
+ã€€ã€€VMWare Toolã‚‚å«ã‚€  
+ã€€ã€€
+ã€€* Snow_VM_Files.zip  
+ã€€ã€€VMä¸Šã®ã‚µã‚¦ãƒ³ãƒ‰é–¢é€£ãƒ‰ãƒ©ã‚¤ãƒ  
+ã€€ã€€
